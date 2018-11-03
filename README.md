@@ -1,13 +1,13 @@
 ## Log Analysis  
      Log analysis is the first project in Full Stack Developer Nanodegree at Udacity. This is Submission contain the required answers.
 ### Get Started
-    These instructions will help on how to run and check the answers for the assignment.
+    These instructions will help on how to run the code of this project.
 ### Prerequistes
     The code is written in **Python 3.6**.
     You also need to have **Postgres SQL** server running on the same machine.
-    Database _news_ as provided in the exercise notes needs to be created.
+    Database _news_ as provided in the project notes needs to be created.
 ### What does this submission contain
-    This submission consists of two files, 
+    This project consists of two files, 
         logAnalysis.py : which contains the python code, and can be run to generate the answers.
         answer.txt : Which contains the output of running logAnalysis.py.
 ## How to run the code
