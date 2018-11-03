@@ -1,5 +1,5 @@
 ## Log Analysis  
-     Log analysis is the first project in Full Stack Developer Nanodegree at Udacity. This is Submission contain the required answers.
+     Log analysis is the first project in Full Stack Developer Nanodegree at Udacity. It contains analysis and report generating for large amount of database rows.
 ### Get Started
     These instructions will help on how to run the code of this project.
 ### Prerequistes
